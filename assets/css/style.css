@@ -1054,6 +1054,7 @@ section {
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  border-radius: 5px;
 }
 
 .events .single-event:last-child {
@@ -3950,7 +3951,7 @@ label.valid:after {
   padding: 20px;
   box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
   margin: auto;
-  max-width: 50%;
+  max-width: 60%;
 }
 
 .in-line{
